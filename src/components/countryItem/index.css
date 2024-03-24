@@ -1,0 +1,11 @@
+.country {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 0.2px solid black;
+  background-color: blueviolet;
+}
+.visit-btn {
+  background-color: blue;
+  color: white;
+}
